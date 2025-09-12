@@ -27,17 +27,18 @@ An **AutoEncoder** is a type of neural network used to learn efficient codings o
     - Useful metrics such as Mean Absolute Error (MAE) are calculated.
     - Plots are generated to show the encoding/decoding process and reconstruction quality.
 
-5. **Applications**
-    - The trained AutoEncoder can be used for:
-        - Denoising ECG signals.
-        - Detecting anomalies (e.g., arrhythmias) by analyzing reconstruction errors.
-        - Extracting features for further analysis or classification.
-     
-6. **Results**
+5. **Results**
     - Accuracy: **94.8%**
     - Precision: **99%**
     - Recall: **91.6%**
 
+6. **Applications**
+    - The trained AutoEncoder can be used for:
+        - Denoising ECG signals.
+        - Detecting anomalies (e.g., arrhythmias) by analyzing reconstruction errors.
+        - Extracting features for further analysis or classification.
+
+     
 ## How to Use
 
 1. **Clone the Repository**
