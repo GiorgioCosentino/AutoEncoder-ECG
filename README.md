@@ -24,7 +24,7 @@ An **AutoEncoder** is a type of neural network used to learn efficient codings o
 
 4. **Evaluation & Visualization**
     - After training, the model’s performance is evaluated by visualizing the reconstructed signals and comparing them to the originals.
-    - Useful metrics such as Mean Squared Error (MSE) are calculated.
+    - Useful metrics such as Mean Absolute Error (MAE) are calculated.
     - Plots are generated to show the encoding/decoding process and reconstruction quality.
 
 5. **Applications**
