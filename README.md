@@ -76,7 +76,6 @@ pip install numpy pandas matplotlib torch jupyter
 ## Repository Structure
 
 - `*.ipynb` – Main Jupyter Notebook(s) containing all code, explanations, and results.
-- `data/` – Folder for ECG datasets (not included; see notebook for instructions).
 - `README.md` – Project overview and instructions.
 
 ## License
