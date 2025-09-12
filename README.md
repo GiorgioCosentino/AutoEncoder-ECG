@@ -82,7 +82,3 @@ pip install numpy pandas matplotlib torch jupyter
 ## License
 
 This project is open-source and available under the [MIT License](LICENSE).
-
-## Author
-
-[Giorgio Cosentino](https://github.com/GiorgioCosentino)
