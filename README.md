@@ -32,6 +32,11 @@ An **AutoEncoder** is a type of neural network used to learn efficient codings o
         - Denoising ECG signals.
         - Detecting anomalies (e.g., arrhythmias) by analyzing reconstruction errors.
         - Extracting features for further analysis or classification.
+     
+6. **Results**
+    - Accuracy: **94.8%**
+    - Precision: **99%**
+    - Recall: **91.6%**
 
 ## How to Use
 
