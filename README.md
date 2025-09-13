@@ -54,7 +54,7 @@ An **AutoEncoder** is a type of neural network used to learn efficient codings o
     - Open the notebook and follow the step-by-step instructions.
 
 3. **Run the Cells**
-    - Execute the cells in order to preprocess data, define the AutoEncoder, train the model, and visualize results.
+Execute the cells in order to preprocess data, define the AutoEncoder, train the model, and visualize results.
 
 ## Requirements
 
